@@ -1,5 +1,7 @@
 # TopDownARPGController
 
+Unity 5.6 Project
+
 This is an old unfinished project from me. It contains a costum top down Rigidbody PlayerController,
 a nice Entity Logic system to connect things in the editor (like press Button -> Platform starts moving) using the Unity UI-Callbacks
 and serveral small useful scripts. Its missing some stuff (like some Animations) to be a fully functional demo, but you can start 
